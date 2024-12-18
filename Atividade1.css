@@ -1,0 +1,22 @@
+
+	body{	
+	background-image: url(img/fundo2.jpg);
+	}
+
+
+h1	{
+					background-image:	url(../img/logofyf.png);
+					text-align: left
+	}
+h2	{
+					border-bottom: 5px	solid	#333333;
+					
+					
+					text-align:left
+	}
+	#logo{
+		position: relative;
+		top:1px;
+		left:700px;
+	}
+	
